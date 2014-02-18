@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>2804cfc7-fb9e-4f71-b3f7-6d499fb5e845</ProjectGuid>
+    <ProjectGuid>{C1E603EA-2B9A-4174-883A-35F3FF89C877}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CISample.DatabaseUpdater</RootNamespace>
